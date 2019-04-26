@@ -9,6 +9,10 @@ all the data comes from MovieDB and their API.
 
 If you have any questions please let me know.
 
+*Please intall node modules for code to run*
+
+using terminal: npm install -g node-modules
+
 
 Thank you!
 
